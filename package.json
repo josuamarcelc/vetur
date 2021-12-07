@@ -623,7 +623,7 @@
     "rollup-plugin-delete": "^2.0.0",
     "rollup-plugin-dts": "^4.0.0",
     "rollup-plugin-terser": "^7.0.2",
-    "rollup-plugin-typescript2": "^0.30.0",
+    "rollup-plugin-typescript2": "^0.31.1",
     "shelljs": "^0.8.4",
     "ts-node": "^10.4.0",
     "tslint": "^6.1.3",
